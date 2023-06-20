@@ -1,0 +1,13 @@
+*{
+    /* background-color: #bfd2f8; */
+}
+.Section{
+    color: red;
+    border: 1px dashed black;
+    width: 250%;
+    margin-left: -250px;
+}
+
+.educationDetail{
+    color: red;
+}
